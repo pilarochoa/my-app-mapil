@@ -1,0 +1,14 @@
+.carousel-natura img {
+    height: 400px;
+    width: 55% !important;
+    padding: 10px;
+    margin: 0 auto;
+}  
+.carousel-natura p{
+    text-align: left;
+    top: 50%;
+    
+} 
+.carousel-natura h5{
+    text-align: left;
+}
