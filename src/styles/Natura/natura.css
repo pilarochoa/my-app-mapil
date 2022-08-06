@@ -12,3 +12,22 @@
 .carousel-natura h5{
     text-align: left;
 }
+.descrip{
+   margin: 0 30px;
+   
+}
+.datos{
+    display:flex;
+    text-align: left;
+}
+.datos > ul:nth-child(2){
+    list-style: none;
+    margin-left: 40px;
+
+}
+.container{
+    display: flex;
+    align-items: center;
+    padding: 50px;
+    
+}

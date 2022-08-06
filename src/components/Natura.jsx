@@ -47,13 +47,25 @@ const Natura = () => {
             </Carousel.Item>
           </Carousel>
           <p>Buscamos ofrecer productos de calidad que beneficien a nuestros clientes y
-            que sean amigables con el medio ambiente </p>
-           
-           <h3>Natura</h3>
-            <video> 
-            <source src="https://drive.google.com/uc?export=view&id=1caLq6p45EFxTuiuJVnLLzBQ82JCmsIvu" type='video/mp4'/>
-              </video>
-           
+            que sean amigables con el medio ambiente </p> 
+           <section class="container">    
+           <div class = "descrip">
+           <h3>Contacto</h3>
+           <div class = "datos">
+           <ul>
+            <li>Línea de Contacto</li>
+            <li>Email</li>
+            <li>Dirección</li>
+           </ul>            
+            <ul>
+              <li>3146963569</li>
+              <li>marleny.ochoa@est.iudigital.edu.co</li>
+              <li>Yolombó - Antioquia - Cr 23 # 18-74 </li>
+              <li>Medellin - Antioquia - Buenos Aires</li>
+            </ul>
+           </div>
+           </div>
+           </section>
         </div>
     );
 }
